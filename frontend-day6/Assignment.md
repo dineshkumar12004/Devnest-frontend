@@ -1,3 +1,5 @@
+# ASSIGNMENT 
+
 1.  Write a JavaScript function to check whether an `input` is an array or not  
     Test Data :  
     console.log(is_array('w3resource'));  
